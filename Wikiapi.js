@@ -78,7 +78,7 @@ wiki_API.set_language('en');
  */
 const KEY_wiki_session = Symbol('wiki_API session');
 // for debug
-// Wikiapi.KEY_wiki_session = KEY_wiki_session;
+Wikiapi.KEY_wiki_session = KEY_wiki_session;
 
 /**
  * @description main Wikiapi operator 操作子.
